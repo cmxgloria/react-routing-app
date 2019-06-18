@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+We get the API from the website
+https://fortniteapi.com  to get the upcoming items endpoint
+Also get the Authorization token code like this
+ 'Authorization': '048bc666a548048036609cb410b1dd3a'
